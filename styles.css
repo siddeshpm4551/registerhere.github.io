@@ -1,0 +1,67 @@
+body{
+    margin-top: 100px;
+}
+.reg{
+    background: linear-gradient(45deg,orangered,deeppink);
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+.forms label{
+    display: block;
+    margin: 10px 0px;
+    
+}
+.forms .call{
+    padding: 10px;
+    width: 280px;
+    border: none;
+    outline: none;
+}
+.forms .cut{
+    padding: 10px;
+    width: 300px;
+}
+.submit{
+    padding: 20px;
+    margin-left: -20px;
+}
+.submit .btn{
+    padding: 10px;
+    width: 280px;
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: 16px;
+    background: linear-gradient(45deg,orangered,deeppink);
+    box-shadow: 0 10px 10px black;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+.reg .cut:focus{
+    background: linear-gradient(45deg,lightgreen,lightblue);
+    border: none;
+    outline: none;
+}
+.reg .call:focus{
+    background: linear-gradient(45deg,lightgreen,lightblue);
+    border: none;
+    outline: none;
+}
+.fa-user-circle{
+    font-size: 100px;
+    border: 10px solid deeppink;
+    background-color: deeppink;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: -75px;
+}
+
+
+
+
